@@ -1,16 +1,98 @@
-## Hi there 👋
 
-<!--
-**Lingeshwaran-M/Lingeshwaran-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm Lingeshwaran</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Aspiring Data Engineer | SQL • Python • ETL</h3>
+
+
+<p align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Engineer;SQL+%7C+Python+%7C+ETL+Pipelines;Building+Data+Projects;Learning+Big+Data+Systems"/>
+
+
+</p>
+
+
+
+⸻
+
+🧠 About Me
+
+• Passionate about Data Engineering
+• Focused on SQL and Data Processing
+• Interested in building ETL pipelines
+• Learning Data Warehousing concepts
+
+⸻
+
+🛠 Tech Stack
+
+Programming
+
+<img src="https://skillicons.dev/icons?i=python,java"/>
+
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman"/>
+
+
+Data Engineering
+
+ETL • Data Pipelines • Data Warehousing • Data Modeling
+
+⸻
+
+📊 GitHub Stats
+
+<p align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lingeshwaran-M&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingeshwaran-M&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</p>
+
+
+
+⸻
+
+🔥 GitHub Streak
+
+<p align="center">
+
+
+<img src="https://streak-stats.demolab.com?user=Lingeshwaran-M&theme=tokyonight&hide_border=true"/>
+
+
+</p>
+
+
+
+⸻
+
+🌐 Connect With Me
+
+<p>
+
+
+<a href="https://linkedin.com/in/lingeshwaran-m-9156302a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="mailto:lingeshwaranm08@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+</p>
