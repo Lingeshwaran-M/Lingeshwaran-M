@@ -70,27 +70,7 @@ engineer = {
  
 ---
  
-## 🔥 What I'm Building
- 
-```sql
--- My current data engineering focus
-SELECT
-    project_name,
-    tech_stack,
-    status
-FROM  projects
-WHERE status IN ('building', 'learning')
-ORDER BY priority DESC;
-```
- 
-| Project | Stack | Status |
-|---|---|---|
-| 🏗️ ETL Pipeline (Sales Data) | Python · PostgreSQL · Pandas | 🔨 Building |
-| 📦 Data Warehouse Design | Star Schema · SQL | 📚 Learning |
-| 🔁 Workflow Automation | Airflow (soon) · Python | 🎯 Next Up |
- 
----
- 
+
 ## 📈 Activity
  
 <div align="center">
