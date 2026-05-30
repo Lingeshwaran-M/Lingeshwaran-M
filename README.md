@@ -64,7 +64,6 @@ Two-stage clinical image classification pipeline with out-of-distribution (OOD) 
 
 ---
  
- 
 ## Contact
  
 - **Email:** lingeshwaranm08@gmail.com
