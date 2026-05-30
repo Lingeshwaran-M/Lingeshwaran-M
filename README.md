@@ -61,14 +61,7 @@ Two-stage clinical image classification pipeline with out-of-distribution (OOD) 
 ### Currently exploring
 `Apache Spark` · `dbt` · `Apache Airflow` · `BigQuery`
  
----
- 
-## GitHub Stats
- 
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lingeshwaran-m&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=30363D&stroke=30363D)
- 
-</div>
+
 ---
  
 Open to Data Engineering internships and entry-level roles — ETL pipeline development, data modeling, SQL-based data systems, and analytics infrastructure.
