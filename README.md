@@ -1,63 +1,82 @@
 # Lingeshwaran M — Data Engineer
-
-> Building the infrastructure that turns raw data into decisions.
-
-I'm a data engineering candidate based in Tamil Nadu, India, focused on ETL pipelines, SQL optimization, and scalable data systems. I'm currently deepening my expertise in Apache Spark, dbt, and Airflow, and I'm actively open to **internships and entry-level Data Engineering roles**.
-
+ 
+> Designing data pipelines and systems that transform raw data into reliable, queryable output.
+ 
+Data Engineer based in Tamil Nadu, India. I build ETL pipelines, design relational data models, and work with SQL-based data systems to move and structure data for downstream use. My projects cover data ingestion, transformation, storage, and serving — the core lifecycle of a data engineering workflow. Open to Data Engineering internships and entry-level roles. **Open to relocation (Chennai / Bangalore / Remote).**
+ 
 ---
-
+ 
 ## Projects
-
+ 
 ### [RAG-DocMind-Engine](https://github.com/lingeshwaran-m/RAG-DocMind-Engine)
-`Python` · `Embeddings` · `LLM` · `Semantic Search`
-
-Scalable document intelligence pipeline that leverages vector embeddings, semantic retrieval, and LLM-powered response generation to answer questions over large document corpora. Designed with a modular architecture to support enterprise-scale ingestion.
-
+`Python` · `Data Pipelines` · `Vector Embeddings` · `LLM` · `Semantic Search` · `PostgreSQL`
+ 
+Document intelligence pipeline that ingests large document corpora, generates vector embeddings, and serves responses through semantic retrieval and LLM-powered generation. Built with a modular pipeline architecture — ingestion, transformation, indexing, and query serving as distinct stages. Benchmarked against keyword search; semantic retrieval returned more relevant results on the same document set.
+ 
 ---
-
+ 
 ### [Web-Scraper ETL Pipeline](https://github.com/lingeshwaran-m/Web-Scraper)
-`Python` · `ETL` · `PostgreSQL` · `Data Ingestion`
-
-Full extract-transform-load pipeline that scrapes product data from the web, applies transformation logic, and persists structured records to a relational database — demonstrating the core DE pattern from raw source to queryable storage.
-
+`Python` · `ETL` · `PostgreSQL` · `Data Ingestion` · `Data Transformation` · `Data Quality`
+ 
+Extract-transform-load pipeline that scrapes product data from web sources, applies transformation and validation logic, and persists structured records to a PostgreSQL database. Covers the full ETL lifecycle: source extraction, schema-aware transformation with basic data quality checks, and normalized relational storage. Processed 10,000+ records across pipeline runs.
+ 
 ---
-
+ 
 ### [AquaSentinel](https://github.com/lingeshwaran-m/AquaSentinel)
 `TypeScript` · `FastAPI` · `PostgreSQL` · `PostGIS` · `Next.js`
-
-AI-driven water body encroachment monitoring platform with geo-spatial complaint management. Built on FastAPI and PostGIS for spatial queries, Next.js for the frontend, and a structured complaint pipeline for government reporting workflows.
-
+ 
+Geo-spatial complaint management platform for water body encroachment monitoring. Uses PostGIS for spatial data modeling and multi-zone geographic queries, with a FastAPI backend serving structured data to a Next.js frontend. Complaint workflows are stored relationally and support structured reporting output.
+ 
 ---
-
-### [IEEE-DermAI-Clinical-Prototype](https://github.com/lingeshwaran-m/IEEE-DermAI-Clinical-Prototype)
-`Python` · `PyTorch` · `EfficientNet-B0` · `Flask`
-
-Two-stage clinical skin lesion classification system with out-of-distribution (OOD) rejection to reduce false positives. Integrated with a Flask backend for structured medical report generation. Developed to IEEE research standards.
-
----
-
+ 
 ### [MCP_Project](https://github.com/lingeshwaran-m/MCP_Project)
-`Python` · `Streamlit` · `MySQL` · `Ollama` · `SSE`
-
-AI-powered MCP bot with MySQL CRUD operations, Streamlit UI, and SSE-based real-time tool execution. Explores agentic patterns over a structured database backend.
-
+`Python` · `MySQL` · `Streamlit` · `Ollama` · `SSE`
+ 
+AI-assisted database interaction tool built on a MySQL backend with full CRUD operations. Uses Streamlit for the interface and SSE for real-time response streaming. Demonstrates structured data access patterns and natural language query handling over a relational data store.
+ 
 ---
-
+ 
+### [IEEE-DermAI-Clinical-Prototype](https://github.com/lingeshwaran-m/IEEE-DermAI-Clinical-Prototype)
+`Python` · `PyTorch` · `EfficientNet-B0` · `Flask` · `ML Pipelines`
+ 
+Two-stage clinical image classification pipeline with out-of-distribution (OOD) rejection to reduce false positives in skin lesion detection. Integrates a Flask backend for structured report generation. Developed to IEEE research documentation standards.
+ 
+*Note: ML research project — included to demonstrate pipeline thinking and Python depth.*
+ 
+---
+ 
 ## Tech Stack
-
-**Languages:** Python · SQL · Java  
-**Databases:** PostgreSQL · MySQL  
-**Concepts:** ETL Pipelines · Data Warehousing · Data Modeling · SQL Optimization  
-**Tools:** Git · Linux · VS Code · Postman  
-
-**Currently learning:** Apache Spark · dbt · Apache Airflow · BigQuery
-
+ 
+### Core skills
+| Area | Technologies |
+|---|---|
+| Languages | Python · SQL |
+| Databases | PostgreSQL · MySQL |
+| Data Engineering | ETL Pipelines · Data Modeling · Data Transformation · Data Ingestion · Data Quality · SQL Optimization · Batch Processing |
+| Developer Tools | Git · Linux · VS Code · Postman |
+ 
+### Used in projects
+`Python` · `PostgreSQL` · `MySQL` · `PostGIS` · `FastAPI` · `Flask` · `Streamlit` · `PyTorch` · `TypeScript`
+ 
+### Currently exploring
+`Apache Spark` · `dbt` · `Apache Airflow` · `BigQuery`
+ 
 ---
-
+ 
+## GitHub Stats
+ 
+<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lingeshwaran-m&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=30363D&stroke=30363D)
+ 
+</div>
+---
+ 
+Open to Data Engineering internships and entry-level roles — ETL pipeline development, data modeling, SQL-based data systems, and analytics infrastructure.
+ 
+---
+ 
 ## Contact
-
-- **Email:** lingeshwaranm08@gmail.com  
-- **LinkedIn:** [linkedin.com/in/lingeshwaran-m-9156302a5](https://linkedin.com/in/lingeshwaran-m-9156302a5)  
+ 
+- **Email:** lingeshwaranm08@gmail.com
+- **LinkedIn:** [linkedin.com/in/lingeshwaran-m-9156302a5](https://linkedin.com/in/lingeshwaran-m-9156302a5)
 - **GitHub:** [github.com/lingeshwaran-m](https://github.com/lingeshwaran-m)
-
-Open to internships and entry-level roles in Data Engineering — pipeline development, warehousing, or analytics infrastructure.
