@@ -64,9 +64,6 @@ Two-stage clinical image classification pipeline with out-of-distribution (OOD) 
 
 ---
  
-Open to Data Engineering internships and entry-level roles — ETL pipeline development, data modeling, SQL-based data systems, and analytics infrastructure.
- 
----
  
 ## Contact
  
